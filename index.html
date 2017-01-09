@@ -1,14 +1,15 @@
 ---
-bg: "rails.jpg"
+bg: "moon_stick.jpg"
 layout: default
-crawlertitle: "Jekyll blog"
-title: "Voyager"
-summary: "main page"
+crawlertitle: "Krewe Du Moon Blog"
+title: "Krew Du Moon"
+summary: "Events"
 ---
 
 {% for post in site.posts limit: 5 %}
   <article class="index-page">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h5>{{ post.date | date: "%m/%d/%Y"  }}</h5>
     {{ post.excerpt }}
   </article>
 {% endfor %}
