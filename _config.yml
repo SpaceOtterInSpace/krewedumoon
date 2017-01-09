@@ -6,17 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Krewe Du Moon
+email: jacqnelson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+	> If you love Anime, or Sailor Moon (or talking cats with crescent shapes on their heads) check us out! We are fully costumed, throw-prepped and ready to roll with the IKOC.
+	> Many Members will also be seen at various Comic Cons indulging in all our Geeky/ Nerdy/ "Comic Book Cutie" awesomeness!.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "http://localhost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: krewdumoon
+github_username:  spaceotterinspace
 disqus_username:
 
 # Build settings
