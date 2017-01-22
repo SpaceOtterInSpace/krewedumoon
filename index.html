@@ -5,11 +5,17 @@ crawlertitle: "Krewe Du Moon Blog"
 title: "Krewe Du Moon"
 summary: "Events"
 ---
-
 {% for post in site.posts limit: 5 %}
-  <article class="index-page">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <h5>{{ post.date | date: "%m/%d/%Y"  }}</h5>
-    {{ post.excerpt }}
-  </article>
+  {% if post.date > site.time %}
+    <article class="index-page">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h5>{{ post.date | date: "%m/%d/%Y"  }}</h5>
+      {{ post.excerpt }}
+    </article>
+  {% endif %}
+
 {% endfor %}
+    <article class="index-page">
+      <h2>Furture Events</h2>
+      Check back for more fun Sailor Scouting adventures
+    </article>
