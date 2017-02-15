@@ -5,8 +5,9 @@ crawlertitle: "Krewe Du Moon Blog"
 title: "Krewe Du Moon"
 summary: "Events"
 ---
-{% for post in site.posts limit: 5 %}
-  {% if post.date > site.time %}
+{% assign events = site.posts  | reverse %}
+{% for post in events limit: 5 %}
+  {% if post.date > site.time and post.categories contains "event" %}
     <article class="index-page">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <h5>{{ post.date | date: "%m/%d/%Y"  }}</h5>
@@ -15,7 +16,7 @@ summary: "Events"
   {% endif %}
 
 {% endfor %}
-    <article class="index-page">
-      <h2>Furture Events</h2>
-      Check back for more fun Sailor Scouting adventures
-    </article>
+<article class="index-page">
+  <h2>Future Events</h2>
+  Check back for more fun Sailor Scouting adventures
+</article>

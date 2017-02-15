@@ -5,7 +5,7 @@ title:  "The Chrystal Cabaret"
 crawlertitle: "Krewe du Moon at Burlesque"
 summary: "Sailor Moon Burlesque Review"
 date:   2017-01-04 20:00:00 +0700
-categories: posts
+categories: event
 tags: 'event'
 author: Jacqui Jupiter
 ---

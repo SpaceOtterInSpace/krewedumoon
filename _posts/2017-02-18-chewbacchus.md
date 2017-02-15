@@ -5,7 +5,7 @@ title:  "Chewbacchus"
 crawlertitle: "Krewe du Moon Parading at Chewbacchus"
 summary: "We've practiced all year and are now ready to show off our stuff."
 date:   2017-02-18 20:00:00 +0700
-categories: posts
+categories: event
 tags: 'event'
 author: Jacqui Jupiter
 ---
