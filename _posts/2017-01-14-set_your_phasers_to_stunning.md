@@ -2,7 +2,7 @@
 bg: "set_your_phasers_to_stunning.jpg"
 layout: post
 title:  "Set Your Phasers to Stunning"
-crawlertitle: "About ES6"
+tab_text: "About ES6"
 summary: "What's new in ES6"
 date:   2017-01-14 20:00:00 +0700
 categories: event

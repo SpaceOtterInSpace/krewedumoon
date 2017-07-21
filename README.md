@@ -15,7 +15,7 @@ All post settings can be changed. Example:
 layout: post
 bg: '2016/background.jpg'
 title: "Post Heading"
-crawlertitle: "page title"
+tab_text: "page title"
 summary: "post description"
 date: 2016-06-29
 tags : ['front-end']

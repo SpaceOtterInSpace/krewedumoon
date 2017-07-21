@@ -2,7 +2,7 @@
 bg: "crystal-palace.jpg"
 layout: post
 title:  "Crystal Palace Contraption"
-crawlertitle: "Crystal Palace Contraption"
+tab_text: "Crystal Palace Contraption"
 summary: "Crystal Palace Contraption"
 date:   2017-02-14 20:00:00 +0700
 categories: scout

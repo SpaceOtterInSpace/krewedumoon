@@ -2,7 +2,7 @@
 bg: "girl_gang.jpg"
 layout: page
 title: "Join"
-crawlertitle: "Join us"
+tab_text: "Join us"
 permalink: /join/
 active: join
 ---

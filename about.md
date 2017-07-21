@@ -2,7 +2,7 @@
 bg: "girl_gang.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+tab_text: "Why and how this blog was created"
 permalink: /about/
 active: about
 ---
