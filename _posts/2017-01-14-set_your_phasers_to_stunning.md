@@ -3,7 +3,7 @@ bg: "set_your_phasers_to_stunning.jpg"
 layout: post
 title:  "Set Your Phasers to Stunning"
 tab_text: "Chewbacchus Talent Show"
-summary: "Chewbacchus's Talent Show"
+summary: "Chewbacchus's Annual Talent Show"
 date:   2017-01-14 20:00:00 +0700
 categories: event
 tags: ['talent-show']
