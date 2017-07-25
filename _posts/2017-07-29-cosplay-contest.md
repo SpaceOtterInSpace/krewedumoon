@@ -1,10 +1,10 @@
 ---
-bg: chewathon2017power.png
+bg: kdm_chewathon2017_power.png
 layout: post
 title:  "MechaCon 2017 Cosplay Contest"
 tab_text: "MechaCon Cosplay"
 summary: "MechaCon Cosplay Contest"
-date:   2017-07-28 20:00:00 +0700
+date:   2017-07-29 20:00:00 +0700
 categories: event
 tags: 'event'
 author: Jacqui Jupiter
