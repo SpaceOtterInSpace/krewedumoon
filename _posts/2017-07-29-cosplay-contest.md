@@ -1,14 +1,13 @@
 ---
 bg: mechacon.jpg
 layout: post
-title:  "Mechacon Cosplay Contest"
-tab_text: "Mechacon"
-summary: "Sailor Moon Burlesque Review"
+title:  "MechaCon 2017 Cosplay Contest"
+tab_text: "MechaCon Cosplay"
+summary: "MechaCon Cosplay Contest"
 date:   2017-07-28 20:00:00 +0700
 categories: event
 tags: 'event'
 author: Jacqui Jupiter
 ---
 
-
-Krewe Du Moon will be showing off their costumes at this years Mechacon in New Orleans. To see them for your very self [register now!]( http://www.mechacon.com/news/)
+Cheer for Krewe Du Moon as we compete in the skit division of the MechaCon Cosplay Contest on Saturday, July 29. The contest will be held in the Celestin Ballroom. Seating begins at 2:00 p.m. and the contest begins at 3:00 p.m. 
