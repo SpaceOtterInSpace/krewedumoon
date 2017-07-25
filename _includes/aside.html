@@ -1,7 +1,7 @@
 {% if page.bg %}
-  <aside class="sidebar" role="note" style="background-image: url({{ site.url }}{{ site.images }}/{{ page.bg }})">
+  <aside class="sidebar" role="note" style="background-image: url({{ site.url }}{{ site.images }}/{{ page.bg }})"  title="{{ page.hover_text ?  page.hover_text : ''}}">
 {% else %}
-  <aside class="sidebar" role="note" style="background-image: url({{ site.url }}{{ site.images }}/bg.svg)">
+  <aside class="sidebar" role="note" style="background-image: url({{ site.url }}{{ site.images }}/bg.svg)" title="foo">
 {% endif %}
 
   <div class="cover">
