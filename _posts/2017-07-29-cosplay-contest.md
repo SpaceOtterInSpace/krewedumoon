@@ -1,5 +1,5 @@
 ---
-bg: kdm_chewathon2017_carry.jpg
+bg: chewathon2017_carry.png
 layout: post
 title:  "MechaCon 2017 Cosplay Contest"
 tab_text: "MechaCon Cosplay"
