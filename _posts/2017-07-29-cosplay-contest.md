@@ -1,7 +1,7 @@
 ---
 bg: mechacon.jpg
 layout: post
-title:  "Mechacon"
+title:  "Mechacon Cosplay Contest"
 tab_text: "Mechacon"
 summary: "Sailor Moon Burlesque Review"
 date:   2017-07-28 20:00:00 +0700
