@@ -2,7 +2,7 @@
 bg: "bio_elena_venus.png"
 layout: post
 title:  "Sailor Venus/Neo Queen Serenity: Elena"
-tab_text: "Sailor Moon"
+tab_text: "Sailor Venus"
 summary: "Elena as Sailor Venus and Neo Queen Serenity"
 date:   2017-07-27 20:00:00 +0700
 categories: scout
