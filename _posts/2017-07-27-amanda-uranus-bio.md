@@ -1,5 +1,5 @@
 ---
-bg: "bio_amanda_urannus.png"
+bg: "bio_amanda_uranus.jpg"
 layout: post
 title:  "Sailor Uranus: Star"
 tab_text: "Sailor Uranus"
