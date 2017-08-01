@@ -1,5 +1,5 @@
 ---
-bg: "chewbacchus2017.jpg"
+bg: "chew2017.jpg"
 layout: post
 title:  "Mid-Summer Mardi Gras: Dirty One XXXI - Coming in Hot"
 tab_text: "Mid-Summer Mardi Gras"
