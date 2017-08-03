@@ -1,5 +1,5 @@
 ---
-bg: "chew2017a.jpg"
+bg: "chew2017.jpg"
 layout: post
 title:  "Chewbacchus 2018"
 tab_text: "Chewbacchus 2018"
