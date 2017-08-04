@@ -1,5 +1,5 @@
 ---
-bg: "logo.png"
+bg: "kdm_logo.png"
 layout: page
 title: "Instagram"
 tab_text: "Instagram"
